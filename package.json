@@ -1,0 +1,15 @@
+{
+  "name": "ally",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pal.js",
+  "scripts": {
+    "go": "node pal.js",
+    "debug": "node inspect pal.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pa11y": "^6.2.3"
+  }
+}
